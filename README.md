@@ -17,3 +17,6 @@ Algo intro in python:
 https://studywolf.wordpress.com/2012/11/25/reinforcement-learning-q-learning-and-exploration/
 
 
+Good intro:
+
+https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265
