@@ -30,3 +30,8 @@ https://wm.jp.nissan.biz/OWA/
 Deep Learning with RL:
 
 https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
+
+
+Ressources:
+
+https://github.com/aikorea/awesome-rl
