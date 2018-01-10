@@ -27,7 +27,9 @@ https://ai.intel.com/demystifying-deep-reinforcement-learning/
 
 Playing Pong, in depth article
 
-https://wm.jp.nissan.biz/OWA/
+
+https://becominghuman.ai/lets-build-an-atari-ai-part-1-dqn-df57e8ff3b26
+
 
 
 Deep Learning with RL:
@@ -40,3 +42,7 @@ Ressources:
 https://github.com/aikorea/awesome-rl
 
 https://towardsdatascience.com/tagged/reinforcement-learning
+
+
+
+
