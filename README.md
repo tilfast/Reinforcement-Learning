@@ -38,3 +38,5 @@ https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow
 Ressources:
 
 https://github.com/aikorea/awesome-rl
+
+https://towardsdatascience.com/tagged/reinforcement-learning
