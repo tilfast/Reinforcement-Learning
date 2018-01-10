@@ -22,6 +22,9 @@ Good intro:
 https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265
 
 
+https://ai.intel.com/demystifying-deep-reinforcement-learning/
+
+
 Playing Pong, in depth article
 
 https://wm.jp.nissan.biz/OWA/
