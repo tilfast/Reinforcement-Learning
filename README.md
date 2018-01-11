@@ -37,6 +37,10 @@ Deep Learning with RL:
 https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
 
 
+
+to follow:
+
+https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
 Ressources:
 
 https://github.com/aikorea/awesome-rl
