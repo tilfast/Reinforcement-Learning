@@ -41,6 +41,8 @@ https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow
 to follow:
 
 https://becominghuman.ai/lets-build-an-atari-ai-part-0-intro-to-rl-9b2c5336e0ec
+
+
 Ressources:
 
 https://github.com/aikorea/awesome-rl
